@@ -1,6 +1,5 @@
 # Nombre del proyecto
-
-Descripción breve de lo que hace este proyecto y del problema que resuelve.
+Descripcion del proyecto. Esto es un proyecto hecho en javascript con su descripcion 
 
 ## Requisitos
 
